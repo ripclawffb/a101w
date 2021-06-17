@@ -74,7 +74,7 @@ $ `vimtutor`
 
 ### Module Conclusion
 
-That's it! (BTW, notice how we aren't installing anything on the host nodes?
+That's it! (BTW, notice how we aren't installing anything on the host nodes?)
 
 # Additional resources:
 
